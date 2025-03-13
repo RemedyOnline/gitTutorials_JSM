@@ -10,3 +10,6 @@ Yes, so I'm currently learning how to fix MERGE CONFLICTS APPROPRIATELY so I'm n
 
 Yes, so I all finished creating the User Profile Page BOSS
 I know this is going to cause conflicts but we are here to learn so charle😂😂😂
+
+##Hi Guys, I'm learning about ADVANCED GIT COMMANDS NOW bro!
+-Currently on GIT RESET
